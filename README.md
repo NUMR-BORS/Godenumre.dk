@@ -1,3 +1,3 @@
 # Webshoppen Godenumre.dk
-[Hjemmeside til salg af gode numre](https://www.godenumre.dk)
+[Gode telefonnumre og guldnumre](https://www.godenumre.dk)
 
